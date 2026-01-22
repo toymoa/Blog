@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+[About](/Blog/about/)
+
 # Welcome to Toymoa Blog
 
 {% for post in site.posts %}

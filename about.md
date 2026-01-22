@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
+
+# About
 
 안녕하세요! Toymoa입니다.
 

@@ -6,3 +6,6 @@ title: Toymoa Blog
 description: Welcome to my blog
 baseurl: "/Blog"
 url: "https://toymoa.github.io"
+
+header_pages:
+  - about.md
